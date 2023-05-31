@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\bin\Debug\net6.0\ByteBankAlura.exe
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\bin\Debug\net6.0\ByteBankAlura.deps.json
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\bin\Debug\net6.0\ByteBankAlura.runtimeconfig.json
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\bin\Debug\net6.0\ByteBankAlura.dll
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\bin\Debug\net6.0\ByteBankAlura.pdb
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\obj\Debug\net6.0\ByteBankAlura.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\obj\Debug\net6.0\ByteBankAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\obj\Debug\net6.0\ByteBankAlura.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\obj\Debug\net6.0\ByteBankAlura.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\obj\Debug\net6.0\ByteBankAlura.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\obj\Debug\net6.0\ByteBankAlura.dll
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\obj\Debug\net6.0\refint\ByteBankAlura.dll
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\obj\Debug\net6.0\ByteBankAlura.pdb
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\obj\Debug\net6.0\ByteBankAlura.genruntimeconfig.cache
+C:\Users\Eduardo\Documents\Alura\PooAlura\ByteBankAlura\ByteBankAlura\obj\Debug\net6.0\ref\ByteBankAlura.dll
