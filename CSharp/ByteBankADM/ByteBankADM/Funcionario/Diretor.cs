@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ByteBankADM.SistemaInterno;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,8 +8,9 @@ using System.Threading.Tasks;
 
 namespace ByteBankADM.Funcionarios
 {
-    public class Diretor : Funcionario
+    public class Diretor : FuncionarioAutenticavel
     {
+
         //override: palavra reservada para sobreescrita de metodos herdados de outras classes(classe derivada)
         public override double GetBonificacao()
         {

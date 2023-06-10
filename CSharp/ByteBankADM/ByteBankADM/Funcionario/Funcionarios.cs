@@ -42,5 +42,10 @@ namespace ByteBankADM.Funcionarios
          */
         #endregion
 
+        //public bool Autenticar(string senha)
+        //{
+        //    return this.Senha == senha;
+        //}
+
     }
 }
