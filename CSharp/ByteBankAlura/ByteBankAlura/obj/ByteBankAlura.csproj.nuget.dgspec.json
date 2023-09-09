@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eduardo\\Documents\\Alura\\PooAlura\\ByteBankAlura\\ByteBankAlura\\ByteBankAlura.csproj": {}
+    "C:\\Users\\Eduardo\\Documents\\Alura\\FullStack_Alura\\CSharp\\ByteBankAlura\\ByteBankAlura\\ByteBankAlura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eduardo\\Documents\\Alura\\PooAlura\\ByteBankAlura\\ByteBankAlura\\ByteBankAlura.csproj": {
+    "C:\\Users\\Eduardo\\Documents\\Alura\\FullStack_Alura\\CSharp\\ByteBankAlura\\ByteBankAlura\\ByteBankAlura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduardo\\Documents\\Alura\\PooAlura\\ByteBankAlura\\ByteBankAlura\\ByteBankAlura.csproj",
+        "projectUniqueName": "C:\\Users\\Eduardo\\Documents\\Alura\\FullStack_Alura\\CSharp\\ByteBankAlura\\ByteBankAlura\\ByteBankAlura.csproj",
         "projectName": "ByteBankAlura",
-        "projectPath": "C:\\Users\\Eduardo\\Documents\\Alura\\PooAlura\\ByteBankAlura\\ByteBankAlura\\ByteBankAlura.csproj",
+        "projectPath": "C:\\Users\\Eduardo\\Documents\\Alura\\FullStack_Alura\\CSharp\\ByteBankAlura\\ByteBankAlura\\ByteBankAlura.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eduardo\\Documents\\Alura\\PooAlura\\ByteBankAlura\\ByteBankAlura\\obj\\",
+        "outputPath": "C:\\Users\\Eduardo\\Documents\\Alura\\FullStack_Alura\\CSharp\\ByteBankAlura\\ByteBankAlura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
